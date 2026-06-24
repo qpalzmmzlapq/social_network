@@ -1,3 +1,5 @@
+# соколов
+
 import User
 
 maxiUser = User.User(username="maxim", email="myemail@gmail.com")
